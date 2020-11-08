@@ -1,0 +1,6 @@
+sklearn
+scikit-build
+cmake
+opencv-python
+keras
+tensorflow
